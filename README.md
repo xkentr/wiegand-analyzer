@@ -1,6 +1,9 @@
-# Saleae I2C Analyzer
+# Saleae Wiegand Analyzer
 
-Saleae I2C Analyzer
+Saleae Wiegand Analyzer
+
+## Note
+This was cloned and modified from the Saleae I2C Analyzer.
 
 ## Getting Started
 
@@ -82,4 +85,4 @@ cd build
 cmake ..
 ```
 
-Then, open the newly created solution file located here: `build\i2c_analyzer.sln`
+Then, open the newly created solution file located here: `build\wiegand_analyzer.sln`
